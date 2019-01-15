@@ -1,11 +1,11 @@
 # Site settings
-author: S Braham
-title: 
+author: SBr2018
+title: Data Scientist convert
 header-img: img/home-bg.png
 email: sharbraham@icloud.com
-copyright_name: S Braham
+copyright_name: SBr2018
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Let the new journey begin...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sbr2018
